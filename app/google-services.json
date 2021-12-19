@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834211450972",
+    "project_id": "realtimedb-de156",
+    "storage_bucket": "realtimedb-de156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834211450972:android:3726a1fc2418345e0e9699",
+        "android_client_info": {
+          "package_name": "com.yatinagg.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834211450972-fq9cm740ml4n6an2bkjflar9n8hvor2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnZ2ZCuJShxaesOX7kOjhTSQwHQ5mNwLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834211450972-fq9cm740ml4n6an2bkjflar9n8hvor2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
